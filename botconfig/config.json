@@ -1,30 +1,30 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "MTIxNzQ1MTUwMDkzNTA1NzU0OQ.G6dmka.hZ_u2nXovItBcG2LxuvA-ML3cS-5eutwAcEnrA",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        "867777067172233226"
     ],
-    "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "bannermusic": "https://cdn.discordapp.com/attachments/1019202620428128307/1020253766508875806/unknown.png",
+    
+    "memer_api": "fTJLBpkPvyZ",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text": "playing M!help",
+        "text2": "Finding Moonlight",
         "type": "PLAYING",
         "url": "https://twitch.tv/milratodiscordbot"
     },
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
-                "port": 2333,
-                "password": "youshallnotpass"
+                "host": "lava.link",
+                "port": 80,
+                "password": "tomato is cool"
             }
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+        "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
